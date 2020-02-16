@@ -1,0 +1,57 @@
+body{
+background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+margin: 0%;
+padding: 0%;
+
+}
+.edit{
+    display: inline-block;
+    margin-left: 80px;
+    font-size: 35px;
+
+    
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.image{
+    width: 100%;
+}
+.photo{
+    margin-left: 0%;
+    padding-left: 0%;
+    
+}
+.word{
+    color: white;
+    font-size: 1000%;
+    
+    
+}
+.gif{
+    height:450px;
+    background-image: url("res/web.gif")
+}
+.feedback{
+    color: white;
+    font-size: 50px;
+}
+.decoration{
+    color: white;
+}
+.coding{
+    width: 25%;
+    display: inline-block;
+    height:200px ;
+    margin-right:20PX;
+    margin-bottom: 10px;
+}
+
+
+
